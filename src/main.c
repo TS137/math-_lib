@@ -8,5 +8,7 @@ int main(){
 //  printf("emacs git push");
   printf("8/4 =%d\n",div(8,4));
   pirntf("ok");
+  print("8888");
+
   return 0;
 }
